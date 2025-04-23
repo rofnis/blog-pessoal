@@ -1,0 +1,18 @@
+body{
+
+    background-color: black;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+
+    padding: 20px;
+}
+
+
+a{
+
+    color: white;
+    text-decoration: none;
+}
